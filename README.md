@@ -1,4 +1,4 @@
 Aufbau einer Bestellverwaltung
 Youtube-Kurs mit Thomas Codes
 
-Dies ist der zweite Brunch
+Dies ist der Brunch "initial_brunch"
